@@ -1,0 +1,6 @@
+2024-04-23 10:00:00 - INFO: Application started
+2024-04-23 10:05:23 - ERROR: Database connection failed
+2024-04-23 10:10:15 - WARNING: Disk space low
+2024-04-23 10:12:45 - ERROR: File not found: data.txt
+2024-04-23 10:20:30 - ERROR: Database query timeout
+2024-04-23 10:25:50 - INFO: Application stopped
