@@ -14,20 +14,16 @@ Log File Monitoring:
 ● Implement a mechanism to stop the monitoring loop (e.g., using a signal like Ctrl+C).
 Log Analysis:
 ● Enhance the script to perform basic analysis on log entries:
-● Count occurrences of specific keywords or patterns (e.g., error messages, HTTP status
-codes).
+● Count occurrences of specific keywords or patterns (e.g., error messages, HTTP status codes).
 ● Generate summary reports (e.g., top error message)
 
 
 
 To run the Python script:
 
-Save the script with a ".py" extension, for example, "log_monitor.py".
-Make sure you have Python installed on your system.
-Ensure you have a log file named "example.log" in the same directory as the script, or specify the correct path to your log file in the log_file variable.
 Open a terminal or command prompt.
-Navigate to the directory containing the script and the log file.
-Run the script by typing python log_monitor.py and pressing Enter.
+Navigate to the directory containing the downloaded github repo.
+Run the script by typing python log_monitor.py.
 
 
 What the script does:
